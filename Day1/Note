@@ -1,0 +1,173 @@
+Day 1: Problem Solving:
+
+It is the process of analyzing the situation, identifying the core issue, and finding a path to the
+solution. 
+
+Problem solving strategies:
+i)Identify the problem
+ii)Define the problem
+iii)Analyze the root causes
+iv)Brainstorm possible solution
+v)Evaluate and choose best solution	 
+vi)Implement the solution
+vii)Evaluate the result	
+
+Algorithm:
+Algorithm design is a process of defining a clear, logical sequence of steps to solve a computational
+problem.   
+
+i)Correctness
+ii)Efficiency
+iii)Unambiguous
+iv)Finite
+
+
+Algorithm design techniques:
+
+i)Brute Force
+ii)Divide and Conquer
+iii)Greedy Algorithms
+iv)Dynamic Programming
+v)Backtracking
+vi)Recursion
+
+
+Steps in designing an Algorithm:
+i)Understand the problem(Clarify the requirements and constraints)
+ii)Choose a design technique (e.g. Overlapping problem =>DP, smaller subproblems=>Recursion etc)
+iii)Design the algorithm(pseudocode or step by step logic)
+iv)Analyze the algorithm(Evaluate the time and space complexity)
+v)Implement and test(code the algorithm and verify with various test cases)
+
+
+Time and Space complexity:
+
+Time complexity describes the amount of time an algorithm takes to run as a function of input size.
+
+Best case:Big Omega(Lower Bound)
+Average case:Big Theta(Tight Bound)	
+Worst case: Big O(Upper Bound)
+
+O(1) - constant time
+O(n) - linear time
+O(log n)- Logarithmic time
+O(n*n) - Quadratic time
+O(2n)- Exponential time
+O(n!)- factorial time 	
+
+
+Space complexity is the amount of memory an algorithm needs relative to its input size.
+
+ i)Input space
+ ii)Auxiliary space(temporary variable, recursion, stack etc)
+ 
+ O(1) -constant space
+ O(n) -linear space 	
+ 
+ 
+ example 1:
+ 
+ for(int i=0;i<n;i++) - n times
+ {
+  sysout(i); - n times
+ }	
+ 
+ time complexity: O(n)
+ 
+ 
+ example 2:
+ for(int i=0;i<n;i++) - n
+ {
+  for(int j=0;j<n;j++)- n*n
+  {
+    sysout(i+j);  -   n
+  } 
+ }
+  time complexity: O(n*n)
+
+
+example 3:
+ 
+ for(int i=1;i<n;i=i*2) -log2n
+ {
+  sysout(i); - 
+ }	
+ 
+  time complexity: O(log2n)
+  
+  
+ example 4:
+ 
+ for(int i=1;i<n;i=i*3) - log3n
+ {
+  sysout(i); 
+ }
+ 
+ time complexity: O(log3n)
+ 
+ 
+ example 5:
+ 
+  for(int i=0;i<n;i++) - n
+ {
+  sysout(i); 
+ }
+  for(int j=0;i<n;j++)-n
+ {
+  sysout(j); 
+ }
+ 
+ 
+  time complexity:O(n+n)=O(n)
+  
+  
+  SPace complexity:
+ Ex 1:
+ 
+ public int sum(int arr[])
+ {
+   int total =0;
+   for(int num:arr)
+   {
+    total+=num;
+   }
+   return total;
+ } 
+  
+  primitive variables: total and num 
+  
+  space complexity: O(1)
+  
+  Ex 2:
+  public int[] copyArray(int arr[])
+  {
+     
+     int result[]=new int[arr.length];//size O(n)
+     for(int i=0;i<arr.length;i++) // O(1)
+     {
+       result[i]=arr[i];
+     }
+    return result;
+  }
+  
+  space complexity=O(n)+O(1)=O(n) linear space
+  
+  
+  Ex 3:
+   public int[][] createMatrix(int n)
+   {
+    int matrix[][]=new int[n][n];//n*n
+    
+    for(int i=0;i<n;i++)//1
+    {
+     for(int j=0;j<n;j++)//1
+     {
+      matrix[i][j]=i*j;
+     }
+    }
+    return matrix;
+   }
+  
+  total space=O(n*n)+o(1)+O(1)=O(n*n)
+  
+ 

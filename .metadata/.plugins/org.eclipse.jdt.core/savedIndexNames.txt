@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\7-5-24-Problem-Solving\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+3380705583.index
+1865797976.index
