@@ -4790,3 +4790,6 @@ java.lang.ClassCastException
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.ClassCastException
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-05-08 12:07:53.695
+!MESSAGE Classpath changed for project: Day2

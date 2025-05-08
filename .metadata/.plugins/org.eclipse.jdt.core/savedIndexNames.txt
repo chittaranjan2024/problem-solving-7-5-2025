@@ -8,7 +8,6 @@ INDEX VERSION 1.134+D:\7-5-24-Problem-Solving\.metadata\.plugins\org.eclipse.jdt
 4057127001.index
 2876265455.index
 1069850170.index
-3413725848.index
 304609476.index
 2315822210.index
 1432666433.index
