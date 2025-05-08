@@ -32,3 +32,8 @@ public class SumOfDigits {
 	}
 
 }
+
+/*
+ * Time complexity: O(log10(n))
+ * Space complexity: O(1)
+ */
