@@ -8,9 +8,9 @@ public class FindDuplicates {
 		Set<Integer> seen=new HashSet<Integer>();
 		Set<Integer> duplicates=new HashSet<Integer>();
 		
-		for(int num:arr)
+		for(int num:arr)//O(n)
 		{
-			if(!seen.add(num))
+			if(!seen.add(num))//O(n)
 			{
 				//If add returns false, it means num is already present
 				duplicates.add(num);
@@ -18,7 +18,7 @@ public class FindDuplicates {
 		}
 		
 		
-		if(duplicates.isEmpty())
+		if(duplicates.isEmpty())//O(1)
 		{
 			System.out.println("No repeating elements found!!");
 		}

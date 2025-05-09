@@ -1,0 +1,20 @@
+Anagram:
+
+
+Ex:
+ SILENT
+ LISTEN
+ 
+ L- 1
+ S- 1
+ I- 1
+ T- 1
+ E- 1
+ N- 1
+ 
+ i)length of both the string has to be the same
+ ii)Frequency of the characters in both the stings must be same but the order can be different. 
+ 
+ 
+ 
+ 
