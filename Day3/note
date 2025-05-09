@@ -29,3 +29,13 @@ Ex:
  
  Input: "abc"
  Output:"a1b1c1"
+ 
+ 
+ 
+ URLify Problem:
+ 
+ %20
+ 
+ 
+ Sample Input: "Mr John Smith"
+ Output: "Mr%20John%20Smith"
