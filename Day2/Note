@@ -18,3 +18,49 @@ mid=low+high/2=0+8/2=4 - Overflow
 0+79999/2
 
 key=67
+
+
+Array rotation:
+
+i)Left rotation
+ii)Right rotation
+
+position value=2(K)
+Original : [1,2,3,4,5]
+
+Left rotate by 1:
+ setp 1: [2,3,4,5,?]
+ step 2: [2,3,4,5,1]
+ 
+ 
+ Original array: [10,20,30,40,50]
+ 
+ Left rotation by 2:[30.40,50,10,20]
+ 
+ Original array: [1,2,3,4,5]
+ Right rotation by 3: [4,5,6,1,2,3]
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

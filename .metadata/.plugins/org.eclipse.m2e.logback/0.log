@@ -497,3 +497,179 @@
 2025-05-07 19:04:05,669 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@640a979e{STOPPING}[12.0.6,sto=0]
 2025-05-07 19:04:05,688 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@31f11674{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-05-08 11:09:29,902 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-08 14:04:44,285 [Worker-66: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.security.jwt:spring-jwt-demo:0.0.1-SNAPSHOT @ D:\7-5-24-Problem-Solving\spring-jwt-demo\pom.xml.
+2025-05-08 14:04:46,167 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/main/java
+2025-05-08 14:04:46,168 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:46,172 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:46,174 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/test/java
+2025-05-08 14:04:46,175 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/test/resources
+2025-05-08 14:04:46,784 [Worker-66: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-05-08 14:04:46,788 [Worker-66: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-08 14:04:47,177 [Worker-66: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.security.jwt:spring-jwt-demo:0.0.1-SNAPSHOT @ D:\7-5-24-Problem-Solving\spring-jwt-demo\pom.xml.
+2025-05-08 14:04:47,906 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/main/java
+2025-05-08 14:04:47,907 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:47,907 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:47,908 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/test/java
+2025-05-08 14:04:47,909 [Worker-66: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/test/resources
+2025-05-08 14:04:48,518 [Worker-66: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-05-08 14:04:48,595 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-08 14:04:49,035 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.security.jwt:spring-jwt-demo:0.0.1-SNAPSHOT @ D:\7-5-24-Problem-Solving\spring-jwt-demo\pom.xml.
+2025-05-08 14:04:49,685 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/main/java
+2025-05-08 14:04:49,685 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:49,686 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 14:04:49,686 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/test/java
+2025-05-08 14:04:49,687 [Worker-68: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/test/resources
+2025-05-08 14:04:50,072 [Worker-68: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-05-08 14:04:50,537 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:04:50,574 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:04:50,579 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:05:16,726 [Worker-68: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.security.jwt:spring-jwt-demo:0.0.1-SNAPSHOT @ D:\7-5-24-Problem-Solving\spring-jwt-demo\pom.xml.
+2025-05-08 14:05:17,852 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:05:17,853 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:05:17,859 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:05:18,372 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:05:18,443 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:05:18,450 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:53:06,750 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-08 14:54:32,934 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:54:32,982 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:54:32,991 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:54:44,943 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:54:44,951 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:54:44,956 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:55:15,561 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:55:15,571 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:55:15,578 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:55:27,112 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:55:27,118 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:55:27,121 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:56:19,687 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:56:19,695 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:56:19,700 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:57:06,530 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:57:06,539 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:57:06,545 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:57:27,763 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:57:27,770 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:57:27,775 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:57:52,991 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:57:52,999 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:57:53,011 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:58:18,523 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:58:18,530 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:58:18,534 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:58:48,458 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:58:48,466 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:58:48,470 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:59:05,777 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:59:05,784 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:59:05,788 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 14:59:57,483 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 14:59:57,497 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 14:59:57,502 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:00:44,839 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:00:44,845 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:00:44,849 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:01:13,322 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:01:13,330 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:01:13,335 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:01:38,551 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:01:38,557 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:01:38,560 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:02:24,890 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:02:24,907 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:02:24,912 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:03:15,236 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:03:15,245 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:03:15,248 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:03:46,123 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:03:46,130 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:03:46,135 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:04:21,790 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:04:21,794 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:04:21,798 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:04:41,258 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:04:41,265 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:04:41,268 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:11:01,596 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:11:01,604 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:11:01,607 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:11:18,543 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:11:18,549 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:11:18,552 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:14:22,464 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.11+7-LTS-207
+2025-05-08 15:14:22,565 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5660313b{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@556aa046{STARTED}}
+2025-05-08 15:14:22,565 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-05-08 15:14:22,587 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3430915c{HTTP/1.1, (http/1.1)}{127.0.0.1:60800}
+2025-05-08 15:14:22,593 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@484f7e70{STARTING}[12.0.6,sto=0] @1307212ms
+2025-05-08 15:14:40,383 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:14:40,391 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:14:40,396 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:14:55,149 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:14:55,153 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:14:55,156 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:14:59,687 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:14:59,691 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:14:59,695 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:15:08,712 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:15:08,717 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:15:08,719 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:16:23,328 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-08 15:16:24,389 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.security.jwt:spring-jwt-demo:0.0.1-SNAPSHOT @ D:\7-5-24-Problem-Solving\spring-jwt-demo\pom.xml.
+2025-05-08 15:16:25,668 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/main/java
+2025-05-08 15:16:25,673 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 15:16:25,675 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/main/resources
+2025-05-08 15:16:25,676 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jwt-demo/src/test/java
+2025-05-08 15:16:25,677 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jwt-demo/src/test/resources
+2025-05-08 15:16:26,258 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-05-08 15:16:27,033 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 15:16:27,076 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 15:16:27,083 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\7-5-24-Problem-Solving\spring-jwt-demo\src\test\resources
+2025-05-08 15:17:31,610 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@484f7e70{STOPPING}[12.0.6,sto=0]
+2025-05-08 15:17:31,617 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3430915c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-05-08 16:39:18,564 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-08 16:44:47,233 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring-boot-jwt:0.0.1-SNAPSHOT @ C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\pom.xml.
+2025-05-08 16:44:49,127 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 16:44:49,159 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:44:49,165 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 16:44:50,379 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring-boot-jwt:0.0.1-SNAPSHOT @ C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\pom.xml.
+2025-05-08 16:44:52,624 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-08 16:44:52,652 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:44:52,658 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 16:53:35,041 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:53:35,044 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:53:35,050 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 16:54:41,880 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:54:41,882 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:54:41,886 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 16:58:09,527 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:58:09,529 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 16:58:09,533 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:00:08,466 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:00:08,467 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:00:08,470 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:01:28,408 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:01:28,409 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:01:28,413 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:02:52,308 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:02:52,309 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:02:52,315 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:06:28,743 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:06:28,745 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:06:28,753 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:08:22,203 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:08:22,204 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:08:22,207 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:08:35,942 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:08:35,944 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:08:35,947 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:09:40,036 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:09:40,038 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-08 17:09:40,041 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Digital Suppliers\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\spring-boot-jwt\src\test\resources
+2025-05-08 17:34:31,979 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.11+7-LTS-207
+2025-05-08 17:34:32,131 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@66bef3fb{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@50caff25{STARTED}}
+2025-05-08 17:34:32,133 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-05-08 17:34:32,167 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2b2875d0{HTTP/1.1, (http/1.1)}{127.0.0.1:53603}
+2025-05-08 17:34:32,173 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@4ce0b8a6{STARTING}[12.0.6,sto=0] @3644754ms
+2025-05-08 18:02:05,577 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@4ce0b8a6{STOPPING}[12.0.6,sto=0]
+2025-05-08 18:02:05,584 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@2b2875d0{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
