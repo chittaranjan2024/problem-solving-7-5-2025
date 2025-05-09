@@ -13,8 +13,19 @@ Ex:
  N- 1
  
  i)length of both the string has to be the same
- ii)Frequency of the characters in both the stings must be same but the order can be different. 
+ ii)Frequency of the characters in both the strings must be same but the order can be different. 
  
  
  
+ String Compression:
  
+ i)For each group of consecutive characters, replace the group with the character followed by the count of
+ repetitions.
+ ii)If the compressed String is not smaller than the original, return the original string.
+ 
+ 
+ Input : "aabcccccaaa"
+ Output: "a2bc5a3" 
+ 
+ Input: "abc"
+ Output:"a1b1c1"
