@@ -16,7 +16,7 @@ public class ClimbingStaircase {
 	
 	public static int climbStairsMemo(int n)
 	{
-		int memo[]=new int[n+1];
+		int memo[]=new int[n+1];//n=5  step-0,1,2...5
 		return climb(n,memo);
 	}
 	
@@ -28,7 +28,7 @@ public class ClimbingStaircase {
 		return memo[n];
 		
  	}
-	public static void main(String[] args) {// TODO Auto-generated method stub
+	public static void main(String[] args) {
 
 		
 		System.out.println(climbStaircaseRecursive(3));
