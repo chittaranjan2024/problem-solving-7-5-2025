@@ -21,7 +21,7 @@ public class FibonacciSeriesUsingRecursion {
 		
 		for(int i=0;i<terms;i++)
 		{
-			System.out.print(fibonacci(i)+" ");
+			System.out.print(fibonacci(i)+" ");   //fabo(4)  fibo(3)
 		}
 		
 		
@@ -30,3 +30,8 @@ public class FibonacciSeriesUsingRecursion {
 	
 
 }
+
+/*
+ * time complexity: O(2n)
+ *   
+*/
