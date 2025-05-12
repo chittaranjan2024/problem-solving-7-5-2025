@@ -1,0 +1,68 @@
+Dynamic Programming
+Dynamic programming(DP) is an optimization technique used to solve complex problem by breaking them down
+into smaller subproblems, solving each subproblem just once, and storing the results using 	memoization
+or tabulation - to avoid redundant computation.
+
+Key concepts:
+i)Overlapping Subproblems:
+
+Fibo(5)=Fibo(4)+Fibo(3)
+
+Fibo(4)=Fib(3)+Fibo(2)
+
+ii)Optimal Substructure 
+A problem has optimal substructure if the optimal solution of the problem be built from the optimal
+solution of its subproblem.
+
+Fibo(n)=fibo(n-1)+fibo(n-2)
+
+Approach:
+i)Top-down(Memoization)
+  a)Solve the problem recursively.(recursive function)
+  b)Store the result of the subproblems in a cache(array or hashmap).
+  c)Reuse the results when the same subproblems occurs.
+  
+ii)Buttom-up(Tabulation)
+  a)Solve all subproblems first and build up a solution.
+  b)Usually uses an array.
+  c)Iterative approach.(loops)
+  
+  
+  
+How to identify DP problems?
+  
+i)Can the problem be broken into subproblem?
+ii)Are subproblems overlapping?
+iii)Can we store/reuse the solutions to subproblems?
+
+
+Recursion:
+Recursion is a fundamental concept in CS where a function calls itself in order to solve a problem.
+
+i)Calls itself with a smaller input.
+ii)Having a base condition that stops further recursive calls.
+
+Every recursive calls adds a frame to the stack memory. (Might cause StackOverFolw if not controlled with 
+base condition/case) 
+
+Backtracking: 
+It's a general algorithmic technique used to solve problems incrementally, by building candidates to the
+solution and abandoning(backtracking) a candidate as soon as it determines that this candidate can not
+lead to a valid solution.  
+
+N-queens Problem 
+Rat in a maze
+
+
+
+
+
+
+
+
+Recursion 
+
+
+
+
+Backtracking
