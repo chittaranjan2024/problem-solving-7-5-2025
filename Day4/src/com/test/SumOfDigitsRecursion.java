@@ -7,7 +7,7 @@ public class SumOfDigitsRecursion {
 		if(n==0)
 		 return 0;
 		else
-		  return n%10+sumOfDigits(n/10);	
+		  return n%10+sumOfDigits(n/10);	//log10n
 	}
 	public static void main(String[] args) {
 		
