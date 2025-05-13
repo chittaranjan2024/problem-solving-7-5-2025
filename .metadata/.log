@@ -1167,3 +1167,728 @@ java.lang.ClassCastException: class org.eclipse.jface.text.source.SourceViewer c
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:16.735
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:17.835
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:18.022
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:18.820
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:19.085
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:19.157
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:19.424
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:19.999
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:20.223
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:20.418
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:20.524
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:20.630
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:20.833
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:21.032
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:21.625
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:21.981
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:22.752
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:23.278
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:23.461
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:24.417
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:24.631
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:24.823
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:25.058
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:25.281
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:25.436
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:26.193
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:26.675
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:27.198
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:27.730
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:28.458
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:28.926
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:29.498
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:30.023
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:30.367
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:31.368
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:31.589
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:31.924
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:32.117
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:32.447
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:32.705
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:32.863
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:33.072
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:33.371
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:33.536
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:33.795
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:34.573
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:35.109
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:35.287
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:35.721
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:36.933
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:37.296
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:37.653
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:38.230
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:38.958
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:39.402
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 11:59:39.863
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:09.286
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:10.415
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:10.593
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:49.232
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:51.288
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:52.545
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:02:53.428
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:00.199
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:00.230
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:00.478
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:07.064
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:08.118
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:08.350
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:08.495
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:08.662
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:08.886
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:10.463
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:11.478
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:12.039
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:18.207
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:20.088
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:20.670
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:31.009
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:31.847
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:32.038
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:33.536
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:45.832
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:46.094
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:46.149
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:46.534
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:03:47.158
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:05:10.224
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:05:11.954
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:05:23.320
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:05:41.288
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:05:41.486
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:06:03.598
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:06:03.678
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:06:06.076
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:06:33.894
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:06:45.843
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:00.143
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:00.310
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:07.918
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:09.415
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:19.070
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:38.967
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:38.984
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:38.998
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:39.013
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:39.021
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:39.061
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:39.462
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:39.861
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:43.832
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:52.422
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:52.702
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:52.730
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:52.749
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:52.950
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:53.070
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:07:53.190
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.541
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.613
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.701
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.773
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.886
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:16.982
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:08:17.407
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:29:26.429
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:42.781
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:43.002
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:43.090
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:43.194
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:43.482
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:46.148
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:49.771
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:50.570
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:54.035
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:54.852
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:55.386
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:57.482
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:58.406
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:37:58.651
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:38:00.650
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:38:02.666
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:38:02.826
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:38:02.946
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException
+
+!ENTRY org.eclipse.ui 4 0 2025-05-13 12:38:03.106
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ClassCastException

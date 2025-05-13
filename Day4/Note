@@ -96,7 +96,14 @@ target=8
 [1,7]
 [2,6]
 
+Rat in a maze:
 
+source=(0,0)
+destination=(n-1,n-1)
+
+DLRU
+
+DDRDDRR
 
 
 
