@@ -21,3 +21,41 @@ countArray[i]=countArray[i-1]+countArray[i]
 outputArray[countArrray[inputArray[i]]-1]=inputArray[i]
 
 [0 0 2 2 3 3 3 5]
+
+Dutch National Flag Problem:
+0 - red
+1 - White
+2 - Blue
+
+Input [2 0 2 1 1 0]
+Output [0 0 1 1 2 2]
+
+
+Approach:
+
+Three pointers
+
+low - Initially points to the start of the array, representing the boundary of 0's. 
+mid - Current index being evaluated
+high -Initially points to the end of the array, represents the boundary of 2's.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
