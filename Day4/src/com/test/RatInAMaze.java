@@ -89,3 +89,11 @@ public class RatInAMaze {
 	}
 
 }
+
+
+
+/*
+ * Time complexity: O(4^(n*m)) n is number of rows and m is number columns
+ * Space complexity: O(n*m)
+ */
+
