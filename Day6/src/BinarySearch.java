@@ -39,3 +39,8 @@ public class BinarySearch {
 	}
 
 }
+/*
+*time complexity:O(log2N)
+*/
+ 
+
