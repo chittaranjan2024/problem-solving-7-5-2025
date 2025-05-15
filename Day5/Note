@@ -39,6 +39,15 @@ low - Initially points to the start of the array, representing the boundary of 0
 mid - Current index being evaluated
 high -Initially points to the end of the array, represents the boundary of 2's.
 
+Quick Sort:
+It is based on divide and conquer algorithm.
+
+i)Select a pivot element from the array.(last, first or random element can be chosen as pivot)
+ii)Partition the array so that:
+  a)Elements smaller than the pivot come before it.
+  b)Elements greater than the pivot come after it.
+iii)Recursively apply the same logic to the subarrays.  
+  
 
  
 
