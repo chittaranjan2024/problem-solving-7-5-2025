@@ -47,6 +47,14 @@ ii)Partition the array so that:
   a)Elements smaller than the pivot come before it.
   b)Elements greater than the pivot come after it.
 iii)Recursively apply the same logic to the subarrays.  
+
+Merge Sort:
+
+i)Divide the array into two halves.
+ii)Recursively sort them.
+iii)Merge the sorted halves into a single sorted array.
+
+
   
 
  
