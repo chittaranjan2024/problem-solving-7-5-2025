@@ -36,6 +36,13 @@ iii)If it's a closing bracket ),},]
 iv)After traversal
    	If stack is empty -> balanced
    	If not -> Unbalanced    
+   	
+Queue:It is a Linear data structure that follows FIFO.(First In First Out)
+
+Two pointers : rear, front
+Elements are added at the rear end and Elements are deleted from the front end.
+
+   	
 
 
 
