@@ -1,0 +1,14 @@
+Stack:
+It is a linear data structure that follows LIFO(Last in First Out principle).
+
+TOS- Top of the Stack
+
+Operations:
+i)Push(int x): Add element on the top of the stack.
+ii)pop():Return and remove the top of the stack.
+iii)peek(): Return the top of the stack.
+iv)isEmpty(): Checks if stack is empty.
+
+Implementation:
+i)Array
+ii)LinkedList
