@@ -42,5 +42,5 @@ public class TernarySearch {
 }
 
 /*
-*time complexity:O(log3N)
+* time complexity:O(log3N)
 */
