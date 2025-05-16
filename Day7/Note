@@ -12,3 +12,5 @@ iv)isEmpty(): Checks if stack is empty.
 Implementation:
 i)Array
 ii)LinkedList
+
+head->[11,next] ->[22,next] ->[33,next] ->[44,next]->null
