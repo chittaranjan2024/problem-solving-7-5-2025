@@ -14,3 +14,35 @@ i)Array
 ii)LinkedList
 
 head->[11,next] ->[22,next] ->[33,next] ->[44,next]->null
+
+Check balanced Parentheses using a stack
+
+()
+
+{}
+
+[]
+
+{[()]} - balanced
+{[(])} - unbalanced
+([)]   - unbalanced
+
+Approach:
+i)Traverse the characters of the String one by one.
+ii)If it's an opening bracket (,{,[, push it onto the stack
+iii)If it's a closing bracket ),},] 
+    check if the stack is empty -> Unbalanced
+    Else, pop from the stack and check if it matches with the opening bracket
+iv)After traversal
+   	If stack is empty -> balanced
+   	If not -> Unbalanced    
+
+
+
+
+
+
+
+
+
+

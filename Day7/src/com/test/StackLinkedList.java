@@ -19,7 +19,7 @@ public class StackLinkedList {
 	
 	StackLinkedList()
 	{
-		top=null;
+		top=null; 
 	}
 	
 	public void push(int value)
