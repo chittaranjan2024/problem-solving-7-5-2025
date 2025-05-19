@@ -200,3 +200,12 @@ public class SinglyLInkedList {
 	}
 
 }
+
+
+//addFirst: O(1)
+//addLast:  O(n)
+//insertAt: O(n)
+//deleteFirst: O(1)
+//deleteLast: O(n)
+//deleteAt: O(n)
+//display, search, size: O(n)
