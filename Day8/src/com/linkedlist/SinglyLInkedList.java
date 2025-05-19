@@ -178,6 +178,30 @@ public class SinglyLInkedList {
 		}
 		return count;
 	}
+	
+	
+	
+	public int findMiddle()
+	{
+		if(head==null)
+		{
+			System.out.println("List is empty!!");
+			return -1;
+		}
+		
+		Node slow=head;
+		Node fast=head;
+		
+		while(fast!=null && fast.next!=null)
+		{
+			slow=slow.next;
+			fast=fast.next.next;
+			
+		}
+		
+		return slow.data;
+			
+	}
 	public static void main(String[] args) {
 		
 
@@ -191,12 +215,14 @@ public class SinglyLInkedList {
 		
 		list.display();
 		
-		list.deleteFirst();
-		list.deleteLast();
+		//list.deleteFirst();
+		//list.deleteLast();
 		
 		list.display();
 		
 		System.out.println(list.search(33));
+		
+		System.out.println(list.findMiddle());
 	}
 
 }
