@@ -7,7 +7,7 @@ ii)Reference(s) to the next node(and previous in case of doubly linkedlist)
 
 head-->first node
 
-[12, next]--->[17,next]--->[78,next]--->[89, null]
+[12, next]--->[17,next]--->[78,next]--->[89, null]-->[17,next]
 
 
 
@@ -24,3 +24,43 @@ Types :
 i)Singly
 ii)Doubly
 iii)Circular
+
+
+Cycle detection/Floyd's cycle detection algorithm :(Tortoise and Hare)
+
+
+Idea: Use two pointers technique
+ i)Slow: Moves one step at a time
+ ii)Fast: Moves two steps at a time
+ 
+ 
+ If there is a cycle then the slow and fast pointer will meet.
+ If there is no cycle then the fast pointer will reach the end(null).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
