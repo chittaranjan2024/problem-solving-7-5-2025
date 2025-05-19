@@ -1,0 +1,26 @@
+LinkedList:
+It is linear data structure that stores elements(called nodes) where each node contains:
+
+i)Data(the element)
+ii)Reference(s) to the next node(and previous in case of doubly linkedlist)
+
+
+head-->first node
+
+[12, next]--->[17,next]--->[78,next]--->[89, null]
+
+
+
+
+i)insert
+ii)delete
+iii)search
+iv)size
+v)display
+vi)reverse
+
+Types :
+
+i)Singly
+ii)Doubly
+iii)Circular
