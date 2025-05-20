@@ -41,3 +41,27 @@ Basic terminologies:
    i)Preorder(Root-Left-Right) ii)Postorder(Left->Right->Root) iii)Inorder(Left->Root->right)
    
    
+   
+ BST:
+ Detele:
+  i)Node with zero child
+  ii)Node with one child
+  iii)Node with two children  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
