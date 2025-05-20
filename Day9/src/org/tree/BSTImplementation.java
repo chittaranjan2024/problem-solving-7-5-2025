@@ -107,6 +107,18 @@ public class BSTImplementation {
 		
 		return target<root.data? search(root.left, target): search(root.right, target);
 	}
+	
+	public int  findHeight(Node root)
+	{
+		if(root==null)
+			return -1;
+		
+		int leftHeight=findHeight(root.left);
+		int rightHeight=findHeight(root.right);
+		
+		return Math.max(leftHeight, rightHeight)+1;
+
+	}
 	public static void main(String[] args) {
 		
 		BSTImplementation tree=new BSTImplementation();
@@ -140,6 +152,8 @@ public class BSTImplementation {
 		System.out.println();
 		
 		System.out.println(tree.search(tree.root, 70));
+		
+		System.out.println(tree.findHeight(tree.root));
 		
 		
 	}
