@@ -1,0 +1,43 @@
+Tree:
+A tree is a non-linear hierarchical data structure made up of nodes connected by edges.
+  
+  i)Has Root node
+  ii)Consists of nodes, each of which can have child nodes
+  iii)Has edges that connects nodes
+  
+  
+Basic terminologies:
+ Root - The top node of the tree
+ Node - An element containing the data and references to child nodes.
+ Parent - A node that has one or more children.
+ child - A node the descends from another node.
+ leaf -  A node with no children.
+ subtree - A tree that is entirely contained in another tree.
+ edge -   The connection between two nodes.
+ depth - The number of edges from the root node to a node.
+ height - The number of edges on the longest path from the node to a leaf.
+ Level - The level of a node equals to the number of edges from the root.(starting at 0)  
+ 
+ Types of Tree:
+ i)Binary Tree
+ ii)Binary Search Tree
+ iii)AVL tree
+ iv)Red-Black tree
+ v)N-ary Tree
+ vi)Heap
+
+ Binary Tree: Each node has at most two children, referred to as left and right child. 
+ 
+   Full binary Tree: Every node has 0 or 2 children.
+   Perfect binary tree: All internal nodes have 2 children, and all leaves are at the same level.
+   Complete binary tree: All levels are filled except possible the last, which is filled from left to right.
+   
+ Binary Search Tree:
+ A binary search tree is a binary tree with the rule 
+ 
+ Left<Node<Right    
+   
+   Traversal:
+   i)Preorder(Root-Left-Right) ii)Postorder(Left->Right->Root) iii)Inorder(Left->Root->right)
+   
+   
