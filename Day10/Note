@@ -1,0 +1,60 @@
+Graph:A graph is a non-linear data structure consisting of nodes and edges.
+
+Nodes: Nodes are vertices 
+Edges: Connecting lines between two nodes.
+
+G=(V,E)
+V-Set of vertices
+E-Set of edges
+
+
+Types of Graphs:
+i)Based on Direction: Directed, UnDirected
+
+A->B
+
+B-A
+
+ii)Based on Weight: Unweighted, Weighted
+
+iii)Based on Connectivity: Connected and Disconnected
+iv)Cyclic and Acyclic: Cycle contains or not.
+
+Implementation of Graph:
+i)Adjacency Matrix
+ii)Adjacency List
+iii)Incidence Matrix
+
+
+Traversing:
+i)BFS
+ii)DFS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
